@@ -12,6 +12,7 @@ import com.mugunthan.app.models.TestRepository;
 import com.ulisesbocchio.jasyptspringboot.annotation.EnableEncryptableProperties;
 
 @EnableEncryptableProperties
+//
 @SpringBootApplication
 public class ShopnowApplication implements CommandLineRunner{
 	@Autowired
